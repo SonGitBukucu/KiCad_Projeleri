@@ -1,0 +1,2 @@
+deşarj özelliğinin gerekliliği kesinleştirilecek
+devreye gücün nasıl sağlanacağı belirlenecek (type-c, mikro usb, sadece lehimleme vb.)

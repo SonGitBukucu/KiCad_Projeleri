@@ -1,0 +1,4 @@
+devre şemasının birleştirilmesi tamamlanacak
+arduino-motor sürücü iletişimi için -büyük ihtimalle- "tersine mühendislik" yapılacak
+pil ters kutup koruma devresinin gerekliliği belirlenecek
+robotun BOM'u tamamen bitirilecek
