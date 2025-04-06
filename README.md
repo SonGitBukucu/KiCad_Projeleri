@@ -1,4 +1,7 @@
 ***DENEY AŞAMASINDA, İŞE YARARLILIĞI KANITLANDIĞINDA KALICI OLACAK.***
+**This repository contains multiple open hardware designs.
+Unless stated otherwise, all contents are licensed under
+the CERN Open Hardware License Strongly Reciprocal v2 (CERN-OHL-S v2).**
 
 
 # KiCad
