@@ -6,9 +6,9 @@ the CERN Open Hardware License Strongly Reciprocal v2 (CERN-OHL-S v2).**
 Github üzerinden KiCad programı ile yaptığım -bitmiş ve devam eden- projelerin versiyon kontrolü ve uzaktan erişimi için kişisel bir repo.
 
 ## Çalışma Prensibi
-KiCad'in yapısı gereği dosya formatları text bazlı olduğu için çok kolay bir şekilde üstünde değişiklikler yapılabilir (mesela elle formata uygun text yazarak sıfırdan pcb/devre 
-şeması oluşturulabilir). Bu sebeplerden dolayı bir Github reposunda KiCad ile oluşturulmuş proje arşiv dosyalarını barındırırsam projelerin versiyon kontrolünü sağlayabilir, aynı 
-zamanda farklı makineler ve farklı yerlerden projelerin güncel durumlarına erişip anlık değişiklikler yapabileceğimi düşünüyorum.
+KiCad'de bir proje arşivlendiğinde projede kullanılan bütün ögeler ile beraber bir "paket" oluşturulur. Bu "paket" daha sonra yeni bir cihazda arşivden çıkarıldığında ise herhangi 
+bir bozulma olmadan proje üstünde düzenlemeler yapabilirim. Bu repo'da her bir projemin arşivlenmiş versiyonu bulunmakta. Bu arşivlerin versiyon kontrolünü yapabilir ve başka bir 
+cihazdan projeye devam etmek istediğimde uzaktan erişebilirim.
 
 Aynı zamanda en yakın zamanda yapılması planlanan değişiklikler/yenilikler için de her bir proje için projeye özel "yapilacaklar" isimli text dosyaları oluşturdum.
 <ins>Listenin içinde aksi belirtilmediği sürece listedeki maddelerin sıralaması önem sırasına göre değildir.<ins>
