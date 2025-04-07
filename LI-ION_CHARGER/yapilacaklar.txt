@@ -1,2 +1,2 @@
-deşarj özelliğinin gerekliliği kesinleştirilecek
-devreye gücün nasıl sağlanacağı belirlenecek (type-c, mikro usb, sadece lehimleme vb.)
+deşarj özelliği entegre edilecek
+USB Type-C tipi güç girişi eklenecek
