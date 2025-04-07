@@ -1,12 +1,9 @@
-***DENEY AŞAMASINDA, İŞE YARARLILIĞI KANITLANDIĞINDA KALICI OLACAK.***
-
 **This repository contains multiple open hardware designs.
 Unless stated otherwise, all contents are licensed under
 the CERN Open Hardware License Strongly Reciprocal v2 (CERN-OHL-S v2).**
 
-# KiCad
-Github üzerinden KiCad versiyon kontrolü yapılabildiğinin mümkün olduğuna inanmam üzerine oluşturduğum, KiCad projelerimin versiyon kontrolünü yapmayı düşündüğüm kişisel -ve şimdilik 
-deneysel- bir repo. İşe yaramasını sağlarsam kalıcı olacak.
+# KiCad Projelerim
+Github üzerinden KiCad programı ile yaptığım projelerin -bitmiş ve devam eden- versiyon kontrolü ve uzaktan erişimi için kişisel bir repo.
 
 ## Çalışma Prensibi
 KiCad'in yapısı gereği dosya formatları text bazlı olduğu için çok kolay bir şekilde üstünde değişiklikler yapılabilir (mesela elle formata uygun text yazarak sıfırdan pcb/devre 
